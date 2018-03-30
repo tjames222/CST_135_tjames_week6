@@ -1,0 +1,18 @@
+Drink,Coke,1.75,16,10,file:src/DispenserDesign/IndividualProducts/CokePicture.png,
+Drink,Powerade,1.75,16,20,file:src/DispenserDesign/IndividualProducts/DrinkPowerade.png,
+Chips,Lays Classic,1.75,15,20,file:src/DispenserDesign/IndividualProducts/laysclassic.png,
+Chips,Lays Barbecue,1.75,15,20,file:src/DispenserDesign/IndividualProducts/laysbarbecue.png,
+Drink,Dasani,1.5,16,12,file:src/DispenserDesign/IndividualProducts/WaterPicture.png,
+Drink,Sprite,1.75,16,20,file:src/DispenserDesign/IndividualProducts/DrinkSprite.png,
+Drink,Fanta,1.75,16,20,file:src/DispenserDesign/IndividualProducts/DrinkFanta.png,
+Candy,Butterfinger,1,7,5,file:src/DispenserDesign/IndividualProducts/butterfinger.png,
+Candy,Snickers,1,7,5,file:src/DispenserDesign/IndividualProducts/snickers.png,
+Candy,KitKat,1,7,5,file:src/DispenserDesign/IndividualProducts/KitKat.png,
+Candy,PayDay,1,7,5,file:src/DispenserDesign/IndividualProducts/payday.png,
+Candy,Nature Valley Bar,1,7,5,file:src/DispenserDesign/IndividualProducts/NatureValley.png,
+Chips,Doritos,1.75,15,10,file:src/DispenserDesign/IndividualProducts/Doritos.png,
+Chips,Ruffles All Dressed,1.75,15,15,file:src/DispenserDesign/IndividualProducts/rufflesalldressed.png,
+Chips,Ruffles Queso,1.75,15,13,file:src/DispenserDesign/IndividualProducts/rufflesquesocheese.png,
+Gum,Wriggleys,Spearmint,0.75,1,20,file:src/DispenserDesign/IndividualProducts/SpearmintGum.png
+Gum,Wriggleys,Big Red,0.75,5,20,file:src/DispenserDesign/IndividualProducts/TridentGum.png
+Gum,Trident,Sugar Free,0.75,3,20,file:src/DispenserDesign/IndividualProducts/BigRedGum.png
